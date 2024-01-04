@@ -11,28 +11,20 @@ h1 {
 }
 
 #technologies {
-    display: grid;
-    place-items: center;
+
     font-size: 30px;
 }
 
 #tools {
-    display: grid;
-    place-items: center;
     font-size: 30px;
 }
 
 #others {
-    display: grid;
-    place-items: center;
+
     font-size: 30px;
 }
 
-#list1 {
-    place-items: center;
-    left: 200px;
-}
 
-ul {
-    padding-left: 17em;
-}
+
+
+
